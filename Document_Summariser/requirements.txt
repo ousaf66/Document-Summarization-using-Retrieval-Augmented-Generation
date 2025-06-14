@@ -1,0 +1,8 @@
+transformers
+sentence-transformers
+faiss-cpu
+pypdf
+markdown
+langchain
+torch
+tqdm
