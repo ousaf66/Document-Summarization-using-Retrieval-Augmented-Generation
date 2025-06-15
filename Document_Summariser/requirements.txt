@@ -6,3 +6,5 @@ markdown
 langchain
 torch
 tqdm
+datasets
+PyPDF2
